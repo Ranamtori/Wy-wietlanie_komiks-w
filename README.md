@@ -1,6 +1,6 @@
 Program napisany w Node.js, który pobiera numery komiksów z pliku `nr.txt`, następnie korzystając z API XKCD (https://xkcd.com/json.html), pobiera dane komiksów i generuje stronę HTML z wykorzystaniem Bootstrapa.
 
-Przed uruchomieniem programu nalezy upewnić sie, że masz zainstalowane zależności:
+Przed uruchomieniem programu nalezy upewnić sie, że masz zainstalowane zależności (Node.js):
 npm install
 
 Oraz, że posiadasz plik nr.txt w postaci np.:
